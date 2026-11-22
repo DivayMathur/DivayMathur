@@ -1,4 +1,5 @@
 # 💫 About Me:
+## 👋 Hey ,I'm Divay Vardhan Mathur
 ### 🎯 About Me<br><br>I'm passionate about programming, software development, and learning new technologies. I enjoy building projects, exploring new tools, and improving my problem-solving skills.<br><br>- 🎓 *Computer Science Engineering Student* | Aspiring Software Developer<br>- 🌱 Currently strengthening *Data Structures & Algorithms* and building practical development projects<br>- 💡 Focused on improving *problem-solving skills*<br>- 📍 Based in *Jaipur, Rajasthan, India*
 
 
